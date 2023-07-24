@@ -1,0 +1,6 @@
+Flask==1.1.2
+google-api-python-client==1.8.0
+google-auth-oauthlib==0.4.1
+google-cloud-bigquery==1.24.0
+gspread==3.4.2
+oauth2client==4.1.3
